@@ -1,9 +1,6 @@
-# -*- coding: utf-8 - *-
-
 import numpy as np
 
 #To run the model at any pH, remove the comment at the start of the line in both reaction energies and activation barriers sections
-#Current settings produce Figure S16 and Figure S17 (at pH = 7, T = 300 K)
 
 # Reaction conditions
 T = 300 # K
